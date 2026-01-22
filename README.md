@@ -76,4 +76,4 @@ This project uses a custom pinout configuration optimized for the Arduino Mega h
 *Lead Engineer & Developer*
 
 ---
-*Based on the original hexapod concepts by Dejan (HowToMechatronics), adapted and re-engineered for the Arin Architecture.*
+*Based on the concepts by Dejan
