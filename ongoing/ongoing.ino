@@ -10,7 +10,6 @@
 #define echoPin 6
 #define ledB 10
 
-// SoftwareSerial Bluetooth(12, 9); // Arduino(RX, TX) - HC-05 Bluetooth (TX, RX)
 
 // Create servo object
 Servo s24;
