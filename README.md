@@ -29,8 +29,9 @@ Unlike standard wheeled robots, this hexapod features **18 degrees of freedom** 
 * **Power:** 3S LiPo Battery (11.1V) with High-Amp Buck Converter (5V/6V output)
 
 ---
+![Hexapod front](https://github.com/user-attachments/assets/c670e530-57ef-4d00-99d1-d52ef607ef76)
 
-## 🔌 Pin Configuration (Arin Architecture)
+## 🔌 Pin Configuration 
 
 This project uses a custom pinout configuration optimized for the Arduino Mega hardware serial ports.
 
