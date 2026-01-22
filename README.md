@@ -62,13 +62,3 @@ The combination of mechanical design, electronics, and embedded programming make
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-Arduino & Robotics Enthusiast
-
----
-
-## 📜 License
-
-This project is developed for **educational and learning purposes**.
