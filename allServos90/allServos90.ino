@@ -23,7 +23,7 @@ void setup() {
   // Move ONE servo at a time to 90°
   for (int i = 0; i < 21; i++) {
     servos[i].write(90);
-    delay(300);             // 🔴 KEY: limits inrush current
+    delay(300);             //  KEY: limits inrush current
   }
 }
 
