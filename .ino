@@ -1,5 +1,5 @@
 /*
-    === Arduino Ant Robot / Hexapod ===
+    === Hexapod ===
     by Arin,
 */
 
