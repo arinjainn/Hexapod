@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-// Declare servos EXACTLY like YouTube code
+// Declare servos EXACTLY
 Servo s1, s2, s3, s5, s7, s8, s9;
 Servo s10, s11, s12;
 Servo s13, s14, s15;
