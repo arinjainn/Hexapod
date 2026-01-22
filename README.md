@@ -23,7 +23,7 @@ Unlike standard wheeled robots, this hexapod features **18 degrees of freedom** 
 ## 🛠️ Hardware Specifications
 
 * **Microcontroller:** Arduino Mega 2560
-* **Actuators:** 22x MG996R High-Torque Metal Gear Servos
+* **Actuators:** 21x MG996R , 1x MG90S High-Torque Metal Gear Servos
 * **Communication:** HC-05 Bluetooth Module (Hardware Serial)
 * **Sensors:** HC-SR04 Ultrasonic Range Finder
 * **Power:** 3S LiPo Battery (11.1V) with High-Amp Buck Converter (5V/6V output)
