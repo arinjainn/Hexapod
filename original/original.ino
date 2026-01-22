@@ -1,7 +1,4 @@
-/*
-    === Arduino Ant Robot / Hexapod ===
-    by Dejan, https://howtomechatronics.com
-*/
+
 
 #include <Servo.h>
 #include <SoftwareSerial.h>
@@ -1135,3 +1132,4 @@ int getDistance() {
   distance = duration * 0.034 / 2; // distance in cm
   return distance;
 }
+
