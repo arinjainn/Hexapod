@@ -5,13 +5,13 @@
 ![Hardware](https://img.shields.io/badge/hardware-3D_Printed-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 🤖 Project Overview
+##  Project Overview
 
 The **Arin Hexapod** is an advanced, bio-inspired robotics platform designed to replicate the locomotion and behavior of an ant. Built on the **Arduino Mega 2560** architecture, this robot utilizes a non-linear tripod gait algorithm to navigate complex terrains with realistic movement.
 
 Unlike standard wheeled robots, this hexapod features **18 degrees of freedom** for locomotion, plus an articulated head and tail system for environmental interaction. It operates in dual modes: autonomous navigation via ultrasonic telemetry and manual control via a custom Android Bluetooth application.
 
-### ✨ Key Features
+###  Key Features
 * **Tripod Gait Locomotion:** Smooth, multi-directional walking (Forward, Backward, Rotation).
 * **Interactive Appendages:** Fully articulated head with biting mandibles and an expressive tail.
 * **Autonomous Intelligence:** Obstacle detection and avoidance using ultrasonic sensor arrays.
@@ -20,7 +20,7 @@ Unlike standard wheeled robots, this hexapod features **18 degrees of freedom** 
 
 ---
 
-## 🛠️ Hardware Specifications
+##  Hardware Specifications
 
 * **Microcontroller:** Arduino Mega 2560
 * **Actuators:** 21x MG996R , 1x MG90S High-Torque Metal Gear Servos
@@ -31,7 +31,7 @@ Unlike standard wheeled robots, this hexapod features **18 degrees of freedom** 
 ---
 ![Hexapod front](https://github.com/user-attachments/assets/c670e530-57ef-4d00-99d1-d52ef607ef76)
 
-## 🔌 Pin Configuration 
+##  Pin Configuration 
 
 This project uses a custom pinout configuration optimized for the Arduino Mega hardware serial ports.
 
@@ -62,7 +62,7 @@ This project uses a custom pinout configuration optimized for the Arduino Mega h
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1.  **Assembly:** Print the 3D components and assemble the chassis.
 2.  **Wiring:** Connect servos and sensors according to the **Pin Configuration** table above.
@@ -71,7 +71,7 @@ This project uses a custom pinout configuration optimized for the Arduino Mega h
 4.  **Flash Firmware:** Upload the `.ino` file to the Arduino Mega.
 5.  **Control:** Pair with the Android App and begin operation.
 
-## 👨‍💻 Author
+##  Author
 
 **Arin**
 *Lead Engineer & Developer*
